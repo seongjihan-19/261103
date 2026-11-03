@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env*.local
+.vercel/
+worker/.aside-auth.json
+worker/last-aside-output.txt
